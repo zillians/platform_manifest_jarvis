@@ -7,4 +7,5 @@
 	<project path="platform/projects/network" name="zillians/platform_network"/>
 	<project path="platform/projects/network_addon" name="zillians/platform_network_addon"/>
 	<project path="platform/projects/jarvis" name="zillians/platform_jarvis"/>
+	<project path="platform/dep/linux/libaws" name="lunastorm/libaws"/>
 </manifest>
