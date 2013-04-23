@@ -8,4 +8,5 @@
 	<project path="platform/projects/network_addon" name="zillians/platform_network_addon"/>
 	<project path="platform/projects/jarvis" name="zillians/platform_jarvis"/>
 	<project path="platform/dep/linux/libaws" name="zillians/libaws"/>
+	<project path="platform/dep/linux/lipabod" name="yocox/libpabod"/>
 </manifest>
