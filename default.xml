@@ -5,7 +5,6 @@
 	<project path="platform" name="zillians/platform"/>
 	<project path="platform/projects/common" name="zillians/platform_common"/>
 	<project path="platform/projects/network" name="zillians/platform_network"/>
-	<project path="platform/projects/network_addon" name="zillians/platform_network_addon"/>
 	<project path="platform/projects/jarvis" name="zillians/platform_jarvis"/>
 	<project path="platform/dep/linux/libaws" name="zillians/libaws"/>
 	<project path="platform/dep/linux/libpabod" name="yocox/libpabod"/>
